@@ -260,32 +260,32 @@
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-12
         LineaTiempoD.color-acento-botones
-          .row.justify-content-center.align-items-center(numero="1" titulo="Corto")
+          .row.justify-content-center.align-items-center.p-3(numero="1" titulo="Corto")
             .col-lg-3
               img.img-a.img-t.mb-3(src="@/assets/curso/tema1/img28.svg", alt="alt")
             .col-lg-9
               p.mb-4 Un nombre largo o con demasiadas palabras tiende a tener menor poder de recordación, mientras que uno corto y sencillo queda con mayor facilidad en la memoria del mercado.
-          .row.justify-content-center.align-items-center(numero="2" titulo="Fácil de pronunciar")
+          .row.justify-content-center.align-items-center.p-3(numero="2" titulo="Fácil de pronunciar")
             .col-lg-3
               img.img-a.img-t.mb-3(src="@/assets/curso/tema1/img29.svg", alt="alt")
             .col-lg-9
               p.mb-4 Las palabras enredadas, en idiomas distintos a los dominados por el mercado o con combinaciones de letras que dificultan la pronunciación pueden hacer que la marca pierda reconocimiento o se genere una barrera para el proceso de compra. Tal es el caso del champú de marca registrada H&S, cuyo nombre original es Head & Shoulders, por lo que, a pesar de su calidad y efectividad para controlar la caspa, tenía un nivel muy bajo en ventas en Colombia, razón que obligó a la empresa a generar un nuevo nombre: H&S, más sencillo de pronunciar y de recordar.
-          .row.justify-content-center.align-items-center(numero="3" titulo="Sonoro")
+          .row.justify-content-center.align-items-center.p-3(numero="3" titulo="Sonoro")
             .col-lg-3
               img.img-a.img-t.mb-3(src="@/assets/curso/tema1/img30.svg", alt="alt")
             .col-lg-9
               p.mb-4 Las palabras en general son muy sonoras y armoniosas cuando son pronunciadas, las marcas deben tener estas mismas características; en el idioma español hay combinaciones de letras que le restan sonoridad a las palabras o se escuchan extraño; por ejemplo: inmaterial, debido a que la combinación de las letras n y m hacen que la sonoridad cambie y se sienta extraña. Lo ideal es utilizar nombres compuestos cortos que comiencen por la misma letra, como se puede percibir con la marca registrada Coca Cola; esto genera ritmo y armonía.
-          .row.justify-content-center.align-items-center(numero="4" titulo="Relación con el beneficio")
+          .row.justify-content-center.align-items-center.p-3(numero="4" titulo="Relación con el beneficio")
             .col-lg-3
               img.img-a.img-t.mb-3(src="@/assets/curso/tema1/img31.svg", alt="alt")
             .col-lg-9
               p.mb-4 Lo ideal es que el nombre de la marca relacione de alguna forma la propuesta de valor del producto o servicio.
-          .row.justify-content-center.align-items-center(numero="5" titulo="No usar siglas")
+          .row.justify-content-center.align-items-center.p-3(numero="5" titulo="No usar siglas")
             .col-lg-3
               img.img-a.img-t.mb-3(src="@/assets/curso/tema1/img32.svg", alt="alt")
             .col-lg-9
               p.mb-4 Si bien hay algunas marcas son construidas con iniciales, estas son más complicadas de recordar y generan menos empatía con el mercado objetivo.
-          .row.justify-content-center.align-items-center(numero="6" titulo="Registrable")
+          .row.justify-content-center.align-items-center.p-3(numero="6" titulo="Registrable")
             .col-lg-3
               img.img-a.img-t.mb-3(src="@/assets/curso/tema1/img27.svg", alt="alt")
             .col-lg-9
@@ -770,27 +770,36 @@
 
     .row.justify-content-center.mb-5
       .col-lg-12   
-        .bloque-texto-g.color-secundario.p-3.p-sm-4.p-md-5
+        .bloque-texto-g.color-secundario.mi.p-3.p-sm-4.p-md-5
           .bloque-texto-g__img(
             :style="{'background-image': `url(${require('@/assets/curso/tema1/img66.png')})`}"
           )
-          .bloque-texto-g__texto.p-4 
+          .bloque-texto-g__texto.p-3.lo
             .row.mb-5.justify-content-center
-              .col-sm-12.col-lg-10
-                ol.lista-ol--cuadro.lista-ul--color.lista-ul--separador
-                  li 
-                    .lista-ol--cuadro__vineta
-                      span 1
-                    | Identificar los resultados de aprendizaje que no han sido alcanzados por el aprendiz.
-                  li 
-                    .lista-ol--cuadro__vineta
-                      span 2
-                    | Establecer las evidencias de aprendizaje que se utilizarán para evaluar el logro del plan.
-                  li 
-                    .lista-ol--cuadro__vineta
-                      span 3
-                    | Poseer l
-
+              .col-lg-12.col-md-12.col-12
+                p.mb-0
+                ul.lista-ul--color(data-aos="fade-left")
+                  li.mb-0.d-flex
+                    i.fas.fa-bullseye
+                    h5.mb-0 Realismo      
+                      p.mb-3 Porque ayuda a dar la dimensión y el volúmen preciso a los productos.
+            
+                  li.mb-0.d-flex
+                    i.fas.fa-bullseye
+                    h5.mb-0 Atención    
+                      p.mb-3 Mejora el poder de captación óptica, ya que el individuo está acostumbrado a él y reacciona más favorablemente.
+                  li.mb-0.d-flex
+                    i.fas.fa-bullseye
+                    h5.mb-0 Sicología  
+                      p.mb-3 El color expresa disposiciones de ánimo y provoca sinestesias (sentimientos por estímulos), que modifican la actitud y el comportamiento del público objetivo.
+                  li.mb-0.d-flex
+                    i.fas.fa-bullseye
+                    h5.mb-0 Estética    
+                      p.mb-3 El color, en sí mismo, proporciona belleza, y placer.
+                  li.mb-0.d-flex
+                    i.fas.fa-bullseye
+                    h5.mb-0 Efectividad  
+                      p.mb-3 El color adecuado, al mejorar la atención y al actuar sobre la sicología humana, favorece la efectividad del mensaje publicitario.
     p.mb-4 Por lo anterior y basado de igual manera en el autor, la sugerencia con respecto a la utilización de los colores es la siguiente:    
                   
     .row.justify-content-center
@@ -798,29 +807,29 @@
         .borde-22.overflow-hidden.h-100.bg7
           figure
             img.mx-auto(src="@/assets/curso/tema1/img67.png")
-          .p-0.align-content-center
+          .p-2.align-content-center
             p.fw-bold.text-center.mb-0.peq ROJO
             p.mb-3.text-center.peq Productos alimenticios aditicos(salsas, aderezos), restaurante.
       .col-lg-3.col-md-6.mb-3(data-aos="fade-right")
         .borde-22.overflow-hidden.h-100.bg7
           figure
             img.mx-auto(src="@/assets/curso/tema1/img68.png")
-          .p-0.align-content-center
+          .p-2.align-content-center
             p.fw-bold.text-center.mb-0.peq MARRÓN
             p.mb-3.text-center.peq Venta de servicios a clases altas.
       .col-lg-3.col-md-6.mb-3(data-aos="fade-right")
         .borde-22.overflow-hidden.h-100.bg7
           figure
             img.mx-auto(src="@/assets/curso/tema1/img69.png")
-          .p-4.align-content-center
-            p.fw-bold.text-center.mb-3.peq AMARILLO
+          .p-2.align-content-center
+            p.fw-bold.text-center.mb-0.peq AMARILLO
             p.mb-3.text-center.peq Servicios financieros y de ahorros.
       .col-lg-3.col-md-6.mb-3(data-aos="fade-right")
         .borde-22.overflow-hidden.h-100.bg7
           figure
             img.mx-auto(src="@/assets/curso/tema1/img70.png")
-          .p-4.align-content-center
-            p.fw-bold.text-center.mb-3.peq VERDE
+          .p-2.align-content-center
+            p.fw-bold.text-center.mb-0.peq VERDE
             p.mb-3.text-center.peq Sensaciones de aire, libre-verano.
             
     .row.justify-content-center.mb-4
@@ -828,29 +837,29 @@
         .borde-22.overflow-hidden.h-100.bg7
           figure
             img.mx-auto(src="@/assets/curso/tema1/img71.png")
-          .p-4.align-content-center
-            p.fw-bold.text-center.mb-3.peq GRIS
+          .p-2.align-content-center
+            p.fw-bold.text-center.mb-0.peq GRIS
             p.mb-3.text-center.peq Alto grado de discriminación, elegante, exclusividad.
       .col-lg-3.col-md-6.mb-4(data-aos="fade-right")
         .borde-22.overflow-hidden.h-100.bg7
           figure
             img.mx-auto(src="@/assets/curso/tema1/img72.png")
-          .p-4.align-content-center
-            p.fw-bold.text-center.mb-3.peq AZUL
+          .p-2.align-content-center
+            p.fw-bold.text-center.mb-0.peq AZUL
             p.mb-3.text-center.peq Promoción hacia hombres.
       .col-lg-3.col-md-6.mb-4(data-aos="fade-right")
         .borde-22.overflow-hidden.h-100.bg7
           figure
             img.mx-auto(src="@/assets/curso/tema1/img73.png")
-          .p-4.align-content-center
-            p.fw-bold.text-center.mb-3.peq ROSA
+          .p-2.align-content-center
+            p.fw-bold.text-center.mb-0.peq ROSA
             p.mb-3.text-center.peq Modas, promociones femeninas, sexo.
       .col-lg-3.col-md-6.mb-4(data-aos="fade-right")
         .borde-22.overflow-hidden.h-100.bg7
           figure
             img.mx-auto(src="@/assets/curso/tema1/img74.png")
-          .p-4.align-content-center
-            p.fw-bold.text-center.mb-3.peq NEGRO
+          .p-2.align-content-center
+            p.fw-bold.text-center.mb-0.peq NEGRO
             p.mb-3.text-center.peq Servicios jurídicos, asesorías.
 
 
