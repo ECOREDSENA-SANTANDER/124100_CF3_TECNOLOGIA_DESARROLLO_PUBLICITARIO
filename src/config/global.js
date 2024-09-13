@@ -150,32 +150,183 @@ export default {
   },
   complementario: [
     {
-      tema: '',
-      referencia: '',
-      tipo: '',
+      tema: 'Construcción de la identidad corporativa',
+      referencia: 'Arias, M. (2020). Formato modelo brief de primer contacto.',
+      tipo: 'Documento Word',
       link: 'https://www.google.com/',
     },
     {
-      tema: '',
-      referencia: '',
-      tipo: '',
+      tema: 'Construcción de la identidad corporativa',
+      referencia: 'Arias, M. (2020). Modelo brief de primer contacto.',
+      tipo: 'Documento PDF',
       descarga: '/downloads/prueba.pdf',
+    },
+    {
+      tema: 'Construcción de la identidad corporativa',
+      referencia: 'Arias, M. (2020). Formato modelo brief de campaña táctica.',
+      tipo: 'Documento Word',
+      descarga: '/downloads/prueba.pdf',
+    },
+    {
+      tema: 'Construcción de la identidad corporativa',
+      referencia: 'Arias, M. (2020). Modelo brief de campaña táctica.',
+      tipo: 'Documento PDF',
+      descarga: '/downloads/prueba.pdf',
+    },
+    {
+      tema: 'Manual de identidad corporativa',
+      referencia: 'Fernández, R. (2009). Segmentación de mercados.',
+      tipo: 'Libro digital',
+      descarga: '/downloads/prueba.pdf',
+    },
+    {
+      tema: 'Manejo de Illustrator',
+      referencia: 'Adobe Illustrator. (2015). Guía ACA Illustrator SPA.',
+      tipo: 'Documento PDF',
+      link:
+        'https://ecored-sena.github.io/522306_CF3_TECNOLOGIA_DESARROLLO_PUBLICITARIO//downloads/Guia%20ACA%20Illustrator%20SPA.pdf',
+    },
+    {
+      tema: 'Concepto de imagen corporativa',
+      referencia: 'Orozko, M. (s. f.). 13 Manuales de Marca para Inspirarte.',
+      tipo: 'Página web',
+      link: 'https://sirope.es/manual-de-marca-inspirar/',
     },
   ],
   glosario: [
     {
-      termino: 'Término',
-      significado: 'Texto de la definición',
+      termino: 'Carátula',
+      significado:
+        'diseño editorial. Tapa o cara principal de una publicación. La funda de un disco o la cubierta de un libro. Interior: reverso o cara posterior de la tapa o carátula.',
     },
     {
-      termino: '<em>Término con extranjerismo</em>',
-      significado: 'Definición',
+      termino: 'Color',
+      significado:
+        'característica propia o adquirida de una superficie, mediante la cual, al incidir los rayos de luz blanca sobre ella, adquiere esta una apariencia visual determinada.',
+    },
+    {
+      termino: 'Eslogan <em>(Slogan)</em>',
+      significado:
+        'término de origen inglés utilizado para recordar una marca o un producto, por medio de una frase de fácil memorización, en los mensajes publicitarios.',
+    },
+    {
+      termino: 'Identidad corporativa',
+      significado:
+        'el conjunto de características específicas y personales de una entidad, las cuales crean una forma perceptible y memorizable de sí misma y la diferencian de las demás entidades.',
+    },
+    {
+      termino: 'Logotipo',
+      significado:
+        'diseño en el cual las letras componentes del escrito encuentran uniones especiales o formas particulares más características. Marca en la cual la palabra funciona como imagen (Veraldi- Scherman, 2004).',
+    },
+    {
+      termino: 'Manual de Identidad Corporativa',
+      significado:
+        'conjunto de normas que regulan el uso y aplicación de la identidad corporativa en el plano del diseño.',
+    },
+    {
+      termino: 'Símbolo',
+      significado:
+        'en la identidad visual, el símbolo es un grafismo distintivo que posee tres clases de funciones: simbólica, identificadora y estética. Se llama símbolo porque: “es un signo convencional, que está en el lugar de otra cosa no presente, a la cual representa”. Esta “cosa no presente” es el propio grupo y cada una de las entidades que lo integran.',
+    },
+    {
+      termino: 'Tipografía',
+      significado:
+        'representación gráfica del lenguaje. Disciplina que rige el diseño de caracteres unificados por propiedades visuales uniformes. Estudia las diferentes categorías de letras, las familias, los recursos, su legibilidad.',
     },
   ],
   referencias: [
     {
-      referencia: '',
+      referencia: 'Adobe Illustrator. (2015). Guía ACA Illustrator SPA. Adobe.',
+      link: 'https://helpx.adobe.com/co/illustrator/user-guide.html',
+    },
+    {
+      referencia: 'Adobe. (2010). Manual de Identidad Corporativa. Adobe.',
+      link: 'https://express.adobe.com/page/xXUs3z85NhNaq/',
+    },
+    {
+      referencia:
+        'Alcaldía de Medellín. (2020). Libro de Marca Municipio de Medellín. https://n9.cl/y5j7',
+      link:
+        'https://www.medellin.gov.co/irj/go/km/docs/pccdesign/medellin/Temas/NuestroGobierno/Publicaciones/Shared%20Content/Documentos/2020/Librodemarca-AlcaldiaMedelliinV1.pdf',
+    },
+    {
+      referencia:
+        'Animal Planet. (2008). International Off-Air Brand Guidelines. https://cutt.ly/byVP1Sd',
+      link: 'https://logoblink.com/img/2009/01/animal_planet1.pdf',
+    },
+    {
+      referencia:
+        'Currás Pérez, R. (2010). Identidad e imagen corporativas: revisión conceptual e interrelación.',
+      link: 'http://192.100.164.85/handle/20.500.12249/815',
+    },
+    {
+      referencia:
+        'Fernández, J. C. A. (2016). Comunicación y marketing. Esic editorial.',
       link: '',
+    },
+    {
+      referencia: 'Fender. (2015). The Fender Brand. https://cutt.ly/syVA783',
+      link:
+        'https://assets.spotlight.fender.com/styleguides/Fender_Brand_Guide.pdf',
+    },
+    {
+      referencia: 'Foursquare. (2011). Brand Book. https://cutt.ly/IyVAGX6',
+      link:
+        'https://playfoursquare.s3.amazonaws.com/press/foursquare-brandbook.pdf',
+    },
+    {
+      referencia: 'Labarta, F. (2014). Guía para Crear Mensajes y Contenidos.',
+      link:
+        'https://www.amazon.es/Mensajes-Contenidos-Publicitarios-Economia-Empresa/dp/8416100098',
+    },
+    {
+      referencia: 'Llopis, E. (2015). Crear la Marca Global. ESIC Editorial.',
+      link:
+        'https://books.google.com.co/books?id=1cFuCAAAQBAJ&pg=PA57&hl=es&source=gbs_toc_r&cad=2#v=onepage&q&f=false',
+    },
+    {
+      referencia:
+        'Orozko. M. (s. f.). 13 Manuales de Marca para Inspirarte. Sirope. Consultado el 04 de junio de 2020.',
+      link: 'https://sirope.es/manual-de-marca-inspirar/',
+    },
+    {
+      referencia:
+        'Pepsi. (2012). Live for Now. Brand Guidelines. Work in Progress. https://cutt.ly/kyVP6gZ',
+      link:
+        'http://www.refinariadesign.com.br/manuais/PEPSI/brandbook-manual-de-identidade-pepsi-2012.pdf',
+    },
+    {
+      referencia:
+        'Pinterest. (2015). Pinterest Brand Guidelines for Partners. https://cutt.ly/xyVALOi',
+      link:
+        'https://s.pinimg.com/sub/business/guides/pinterest-brand-guidelines-en-02.pdf',
+    },
+    {
+      referencia:
+        'Reimers Design. (s. f.). Pequeño Diccionario del Diseñador. Consultado el 27 de mayo de 2020. https://cutt.ly/VyDzeWh',
+      link:
+        'http://losqueno.com/wp-content/uploads/2015/04/DICCIONARIO-DISE--O.pdf',
+    },
+    {
+      referencia:
+        'Sánchez, G. (2020). Glosario Gráfico. https://cutt.ly/WyVO5FW',
+      link: 'http://www.glosariografico.com/categoria_tipografia?page=4',
+    },
+    {
+      referencia: 'Twitter. (2020). Brand Guidelines. https://cutt.ly/byVAuhe ',
+      link: 'https://about.x.com/en/who-we-are/brand-toolkit',
+    },
+    {
+      referencia: 'Unicef. (2008). Brand Tool Kit. Unicef.',
+      link:
+        'https://www.unicef.org/jordan/media/7166/file/ANNEX_G_-_Brand_book_V3.1.pdf',
+    },
+    {
+      referencia:
+        'Usabilitypost. (2019). A Guide to Choosing Colors for Your Brand. https://cutt.ly/EyVPzjx',
+      link:
+        'https://usabilitypost.com/2008/09/29/a-guide-to-choosing-colors-for-your-brand/',
     },
   ],
   creditos: [
@@ -184,13 +335,13 @@ export default {
       autores: [
         {
           nombre: 'Milady Tatiana Villamil Castellanos',
-          cargo: 'Responsable del Ecosistema',
+          cargo: 'Responsable del ecosistema',
           centro: 'Dirección General',
         },
         {
-          nombre: 'Olga Constanza Bermúdez Jaimes',
-          cargo: 'Responsable de Línea de Producción',
-          centro: 'Centro de Servicios de Salud - Regional Antioquia',
+          nombre: 'Claudia Johanna Gómez Pérez',
+          cargo: 'Responsable de línea de producción',
+          centro: 'Regional Santander - Centro Agroturístico',
         },
       ],
     },
@@ -198,9 +349,9 @@ export default {
       titulo: 'CONTENIDO INSTRUCCIONAL',
       autores: [
         {
-          nombre: 'Nombre responsable',
-          cargo: 'Nombre del rol',
-          centro: 'Centro de Servicios de Salud - Regional Antioquia',
+          nombre: 'Sandra Paola Morales Páez',
+          cargo: 'Evaluadora instruccional',
+          centro: 'Regional Santander - Centro Agroturístico',
         },
       ],
     },
@@ -208,24 +359,24 @@ export default {
       titulo: 'DISEÑO Y DESARROLLO DE RECURSOS EDUCATIVOS DIGITALES',
       autores: [
         {
-          nombre: 'Nombre responsable',
-          cargo: 'Diseñador de Contenidos Digitales',
-          centro: 'Centro de Servicios de Salud - Regional Antioquia',
+          nombre: 'Marcos Yamid Rubiano Avellaneda',
+          cargo: 'Diseñador de contenidos digitales',
+          centro: 'Regional Santander - Centro Agroturístico',
         },
         {
-          nombre: 'Nombre responsable',
-          cargo: 'Desarrollador Fullstack',
-          centro: 'Centro de Servicios de Salud - Regional Antioquia',
+          nombre: 'Pedro Alonso Bolivar González',
+          cargo: 'Desarrollador <em>full stack</em>',
+          centro: 'Regional Santander - Centro Agroturístico',
         },
         {
-          nombre: 'Nombre',
-          cargo: 'Animador y Producción audiovisual',
-          centro: 'Centro de Servicios de Salud - Regional Antioquia',
+          nombre: 'Maria Alejandra Vera Briceño',
+          cargo: 'Animadora y productora multimedia',
+          centro: 'Regional Santander - Centro Agroturístico',
         },
         {
-          nombre: 'Nombre',
-          cargo: 'Actividad Didáctica',
-          centro: 'Centro de Servicios de Salud - Regional Antioquia',
+          nombre: 'Lucenith Pinilla Moreno',
+          cargo: 'Actividad didactica',
+          centro: 'Regional Santander - Centro Agroturístico',
         },
       ],
     },
@@ -233,24 +384,14 @@ export default {
       titulo: 'VALIDACIÓN RECURSO EDUCATIVO DIGITAL',
       autores: [
         {
-          nombre: 'Luis Gabriel Urueta Alvarez',
-          cargo: 'Validador de Recursos Educativos Digitales',
-          centro: 'Centro de Servicios de Salud - Regional Antioquia',
+          nombre: 'Yineth Ibette González Quintero',
+          cargo: 'Validadora de recursos educativos digitales',
+          centro: 'Regional Santander - Centro Agroturístico',
         },
         {
-          nombre: 'Jaime Hernan Tejada',
-          cargo: 'Validador de Recursos Educativos Digitales',
-          centro: 'Centro de Servicios de Salud - Regional Antioquia',
-        },
-        {
-          nombre: 'Daniel Ricardo Mutis Gómez',
-          cargo: 'Evaluador para contenidos inclusivos y accesibles',
-          centro: 'Centro de Servicios de Salud - Regional Antioquia',
-        },
-        {
-          nombre: 'Margarita Marcela Medrano',
-          cargo: 'Evaluador para contenidos inclusivos y accesibles',
-          centro: 'Centro de Servicios de Salud - Regional Antioquia',
+          nombre: 'Erika Fernanda Mejía Pinzón',
+          cargo: 'Validación de contenidos accesibles',
+          centro: 'Regional Santander - Centro Agroturístico',
         },
       ],
     },

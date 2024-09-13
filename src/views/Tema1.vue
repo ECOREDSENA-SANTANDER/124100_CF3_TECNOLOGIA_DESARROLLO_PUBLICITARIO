@@ -778,12 +778,13 @@
             .row.mb-5.justify-content-center
               .col-lg-12.col-md-12.col-12
                 p.mb-0
-                ul.lista-ul--color(data-aos="fade-left")
+                ul.lista-ul--color(data-aos="fade-left").inde
                   li.mb-0.d-flex
                     i.fas.fa-bullseye
                     h5.mb-0 Realismo      
-                      p.mb-3 Porque ayuda a dar la dimensión y el volúmen preciso a los productos.
-            
+                    .row
+                      .col-lg-12
+                        p.mb-3 Porque ayuda a dar la dimensión y el volúmen preciso a los productos.
                   li.mb-0.d-flex
                     i.fas.fa-bullseye
                     h5.mb-0 Atención    
@@ -800,6 +801,12 @@
                     i.fas.fa-bullseye
                     h5.mb-0 Efectividad  
                       p.mb-3 El color adecuado, al mejorar la atención y al actuar sobre la sicología humana, favorece la efectividad del mensaje publicitario.
+
+              
+              
+              
+              
+              
     p.mb-4 Por lo anterior y basado de igual manera en el autor, la sugerencia con respecto a la utilización de los colores es la siguiente:    
                   
     .row.justify-content-center
