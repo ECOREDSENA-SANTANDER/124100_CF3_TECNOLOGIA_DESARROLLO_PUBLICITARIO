@@ -33,20 +33,22 @@
               img.img-a.img-t(src='@/assets/curso/tema3/img2.svg', alt='')
             .col-lg-8.col-md-12.col-12
               p.mb-4 A continuación, se indican las figuras retóricas más utilizadas en la publicidad, relacionando algunos ejemplos escritos y visuales que se destacan. Lo cual, es basado en el sitio web Retoricas.com (2009) y la recopilación que hace la profesora de lenguaje y comunicación Mónica San Martín:
-              .row.align-items-center.justify-content-center.mb-3
-                .col-lg-12.col-md-12.col-12
-                  .caja1.p-4
-                    .row.align-items-center.justify-content-center
-                      .col-lg-2
-                        img.img-a.img-t.d-none.d-lg-block(src="@/assets/curso/tema1/img64.svg")
-                      .col-lg-7.col-md-11.col-12
-                        h4.mb-3.text-white.my-3 #[b Anexo.]
-                        p.mb-3.text-white Colores secundarios y terciarios CMYK en el círculo cromático.
-                      .col-lg-2
-                        a.boton.color-acento-botones(href="https://paletton.com/#uid=1000u0kllllaFw0g0qFqFg0w0aF" target="_blank")
-                          span Descargar
-                          i.fas.fa-file-download
-  
+            
+              .row.justify-content-center.align-items-center(data-aos="zoom-in-left")
+                .col-lg-12
+                  .caja1.p-4.mb-5
+                    .row.justify-content-around.align-items-center
+                      .col-3.col-sm-2.col-lg-2.d-none.d-lg-block
+                        img.img-a.img-t(src="@/assets/curso/tema1/img64.svg")
+                      .col
+                        .row.justify-content-between.align-items-center
+                          .col.mb-3.mb-sm-0
+                            h4.mb-3.text-white #[b Anexo.]
+                            p.mb-0.text-white Colores secundarios y terciarios CMYK en el círculo cromático.
+                          .col-sm-auto
+                            a.boton.color-acento-botones(href="https://paletton.com/#uid=1000u0kllllaFw0g0qFqFg0w0aF" target="_blank")
+                              span Descargar
+                              i.fas.fa-file-download 
     Separador
     #t_3_2.titulo-segundo.mb-5
       h2 3.2	Medios de entrega y difusión
@@ -65,11 +67,11 @@
       .col-md-12.col-12.col-lg-8
         p.mb-2 - Manual completo en formato PDF.
         .hr.mb-2
-        p.mb-2 - Logo en archivo fuente, preferiblemente en formato PDF para que este pueda abrirse en cualquier software vectorial.
+        p.mb-2 - Logo en archivo fuente, preferiblemente en formato PDF para que este pueda abrirse en cualquier #[em software] vectorial.
         .hr.mb-2
         p.mb-2 - Formato de imagen JPG y PNG, esta última permite que el logo tenga fondo transparente para su fácil ubicación en diversos medios.
         .hr.mb-2
-        p.mb-2 - Logo en formato Tiff para que pueda ser abierto en software de edición de mapas de bits cuando se requiera.
+        p.mb-2 - Logo en formato Tiff para que pueda ser abierto en #[em software] de edición de mapas de bits cuando se requiera.
         .hr.mb-2
         p.mb-2 - Logo en imagen de sus versiones a color, fondos oscuros y fondos claros.
         .hr.mb-2
@@ -90,7 +92,7 @@
     
     .row.justify-content-center
       .col-lg-12
-        .cajon.color-acento-contenido.p-4.mb-4
+        .cajon.color-acento-contenido.p-4
           p.mb-0 #[b El manual de identidad debe ser la base para todas las estrategias de comunicación que la empresa realice a mediano y largo plazo, recomendando actualizaciones permanentes sin cambios radicales, para mantener una comunicación empática con las tendencias del mercado, teniendo en cuenta que el mundo de hoy es más vertiginoso y cambiante.]
   
 

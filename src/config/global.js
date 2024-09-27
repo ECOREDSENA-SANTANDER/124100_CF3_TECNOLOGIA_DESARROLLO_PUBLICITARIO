@@ -69,12 +69,12 @@ export default {
       {
         nombreRuta: 'tema2',
         numero: '2',
-        titulo: 'Manejo de software de diseño vectorial',
+        titulo: 'Manejo de <em>software</em> de diseño vectorial',
         desarrolloContenidos: true,
         subMenu: [
           {
             numero: '2.1',
-            titulo: 'Software de diseño vectorial en el mercado',
+            titulo: '<em>Software</em> de diseño vectorial en el mercado',
             hash: 't_2_1',
           },
           {
@@ -153,44 +153,43 @@ export default {
       tema: 'Construcción de la identidad corporativa',
       referencia: 'Arias, M. (2020). Formato modelo brief de primer contacto.',
       tipo: 'Documento Word',
-      link: 'https://www.google.com/',
+      descarga: '/downloads/Formato modelo brief de primer contacto.doc',
     },
     {
       tema: 'Construcción de la identidad corporativa',
       referencia: 'Arias, M. (2020). Modelo brief de primer contacto.',
       tipo: 'Documento PDF',
-      descarga: '/downloads/prueba.pdf',
+      descarga: '/downloads/Modelo brief de primer contacto.pdf',
     },
     {
       tema: 'Construcción de la identidad corporativa',
       referencia: 'Arias, M. (2020). Formato modelo brief de campaña táctica.',
       tipo: 'Documento Word',
-      descarga: '/downloads/prueba.pdf',
+      descarga: '/downloads/Formato modelo brief de campaña táctica.doc',
     },
     {
       tema: 'Construcción de la identidad corporativa',
       referencia: 'Arias, M. (2020). Modelo brief de campaña táctica.',
       tipo: 'Documento PDF',
-      descarga: '/downloads/prueba.pdf',
+      descarga: '/downloads/Modelo brief de campaña táctica.pdf',
     },
     {
       tema: 'Manual de identidad corporativa',
       referencia: 'Fernández, R. (2009). Segmentación de mercados.',
       tipo: 'Libro digital',
-      descarga: '/downloads/prueba.pdf',
+      descarga: '/downloads/manual_de_identidad.pdf',
     },
     {
       tema: 'Manejo de Illustrator',
       referencia: 'Adobe Illustrator. (2015). Guía ACA Illustrator SPA.',
       tipo: 'Documento PDF',
-      link:
-        'https://ecored-sena.github.io/522306_CF3_TECNOLOGIA_DESARROLLO_PUBLICITARIO//downloads/Guia%20ACA%20Illustrator%20SPA.pdf',
+      descarga: '/downloads/Guia ACA Illustrator SPA.pdf',
     },
     {
       tema: 'Concepto de imagen corporativa',
       referencia: 'Orozko, M. (s. f.). 13 Manuales de Marca para Inspirarte.',
       tipo: 'Página web',
-      link: 'https://sirope.es/manual-de-marca-inspirar/',
+      link: 'https://sirope.es/branding/manual-de-marca-inspirar/',
     },
   ],
   glosario: [
@@ -351,7 +350,7 @@ export default {
         {
           nombre: 'Sandra Paola Morales Páez',
           cargo: 'Evaluadora instruccional',
-          centro: 'Regional Santander - Centro Agroturístico',
+          centro: 'Centro Agroturístico - Regional Santander',
         },
       ],
     },
@@ -361,22 +360,22 @@ export default {
         {
           nombre: 'Marcos Yamid Rubiano Avellaneda',
           cargo: 'Diseñador de contenidos digitales',
-          centro: 'Regional Santander - Centro Agroturístico',
+          centro: 'Centro Agroturístico - Regional Santander',
         },
         {
           nombre: 'Pedro Alonso Bolivar González',
           cargo: 'Desarrollador <em>full stack</em>',
-          centro: 'Regional Santander - Centro Agroturístico',
+          centro: 'Centro Agroturístico - Regional Santander',
         },
         {
           nombre: 'Maria Alejandra Vera Briceño',
           cargo: 'Animadora y productora multimedia',
-          centro: 'Regional Santander - Centro Agroturístico',
+          centro: 'Centro Agroturístico - Regional Santander',
         },
         {
           nombre: 'Lucenith Pinilla Moreno',
           cargo: 'Actividad didactica',
-          centro: 'Regional Santander - Centro Agroturístico',
+          centro: 'Centro Agroturístico - Regional Santander',
         },
       ],
     },
@@ -386,12 +385,12 @@ export default {
         {
           nombre: 'Yineth Ibette González Quintero',
           cargo: 'Validadora de recursos educativos digitales',
-          centro: 'Regional Santander - Centro Agroturístico',
+          centro: 'Centro Agroturístico - Regional Santander',
         },
         {
           nombre: 'Erika Fernanda Mejía Pinzón',
           cargo: 'Validación de contenidos accesibles',
-          centro: 'Regional Santander - Centro Agroturístico',
+          centro: 'Centro Agroturístico - Regional Santander',
         },
       ],
     },

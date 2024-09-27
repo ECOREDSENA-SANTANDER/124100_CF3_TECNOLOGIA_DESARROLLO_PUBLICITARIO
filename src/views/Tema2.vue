@@ -5,7 +5,7 @@
     .titulo-principal.color-secundario
       .titulo-principal__numero
         span 2
-      h1 Manejo de software de diseño vectorial
+      h1 Manejo de #[em software] de diseño vectorial
     
     .row.justify-content-center.align-items-center(data-aos="zoom-in-left")
       .col-md-12.col-12.col-lg-12
@@ -15,19 +15,19 @@
               img.img-a.img-t(src='@/assets/curso/tema2/img1.svg', alt='')
             .col-lg-8
               .bloque-texto-a__texto.p-5
-                p.mb-0 Para el desarrollo de una marca es necesario el manejo de software de diseño vectorial. En la web, hay muchas alternativas para el diseño de logos; sin embargo, no es recomendable acudir a íconos o gráficos estándar para generar la representatividad de una empresa, lo ideal es crear la identidad desde cero y tener en cuenta todos los parámetros relacionados con el diseño de marca, expuestos en el tema 1 de este componente formativo.
+                p.mb-0 Para el desarrollo de una marca es necesario el manejo de #[em software] de diseño vectorial. En la web, hay muchas alternativas para el diseño de logos; sin embargo, no es recomendable acudir a íconos o gráficos estándar para generar la representatividad de una empresa, lo ideal es crear la identidad desde cero y tener en cuenta todos los parámetros relacionados con el diseño de marca, expuestos en el tema 1 de este componente formativo.
     
     Separador
     #t_2_1.titulo-segundo.mb-5
-      h2 2.1 Software de diseño vectorial en el mercado
+      h2 2.1 #[em Software] de diseño vectorial en el mercado
     
-    p.mb-4 En el mercado hay varios tipos de software de diseño vectorial, los cuales se pueden utilizar para crear la marca y la identidad corporativa de una empresa, producto o servicio, para lo cual se anexa el siguiente video: 
+    p.mb-4 En el mercado hay varios tipos de #[em software] de diseño vectorial, los cuales se pueden utilizar para crear la marca y la identidad corporativa de una empresa, producto o servicio, para lo cual se anexa el siguiente video: 
     
     .row
       figure
         .video
           iframe(width="560" height="315" src="https://www.youtube.com/embed/D840NyenOhw?si=kSdoUe7liFUE5jJH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen)
-        figcaption Video Manejo De Software De Diseño Vectorial
+        figcaption Video Manejo De #[em Software] De Diseño Vectorial
 
     Separador
     #t_2_2.titulo-segundo.mb-5
@@ -70,7 +70,7 @@
     .titulo-segundos.mb-5
       h2 Manejo de texto
 
-    p.mb-4 La herramienta Texto permite realizar dos tipos: el primero es el cuadro de texto para textos largos, el cual se debe realizar haciendo clic sostenido y arrastrando el mouse hasta hacer un marco del tamaño deseado, como complemento a lo expuesto diríjase a: 
+    p.mb-4 La herramienta Texto permite realizar dos tipos: el primero es el cuadro de texto para textos largos, el cual se debe realizar haciendo clic sostenido y arrastrando el #[em mouse] hasta hacer un marco del tamaño deseado, como complemento a lo expuesto diríjase a: 
 
     .row
       figure.mb-5

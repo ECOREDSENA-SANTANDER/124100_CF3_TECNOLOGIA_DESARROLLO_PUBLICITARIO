@@ -237,7 +237,7 @@
                 img(src='@/assets/curso/tema1/img24.png' alt="")
             .crrd_hover_txt--body.colt
               h5.mb-3.text-center.text-white Nombre para la empresa
-              p.mt-4.text-white.mb-0.text-center En caso de que el proyecto implique, además de la creatividad gráfica, la propuesta de opciones de posibles nombres para una empresa, organización o marca, el diseñador o estudio de diseño deberán llevar a cabo una investigación acerca de lo que se requiere comunicar
+              p.mt-4.text-white.mb-0.text-center En caso de que el proyecto implique, además de la creatividad gráfica, la propuesta de opciones de posibles nombres para una empresa, organización o marca, el diseñador o estudio de diseño deberán llevar a cabo una investigación acerca de lo que se requiere comunicar.
         .col-lg-4.mb-4.mb-lg-0.col-md-6(data-aos="zoom-in")
           .crrd_hover_txt
             .crrd_hover_txt--img
@@ -466,12 +466,12 @@
         .row.justify-content-center.mb-3
           .col-6
             img.img-a.img-t.mb-4(src="@/assets/curso/tema1/1.svg", alt="alt").img100.m-auto
-          p.mb-0.text-center Un círculo representa ciclo, comunidad y enfoque. También pueden dar la impresión de inestabilidad y movimiento.
+          p.mb-0.text-center Simboliza simplicidad, estabilidad y confiabilidad, ideal para marcas que buscan mensajes claros y directos.
       .tarjeta.tarjeta--slyder.bg2.p-4.shadow
         .row.justify-content-center.mb-3
           .col-6
             img.img-a.img-t.mb-4(src="@/assets/curso/tema1/2.svg", alt="alt").img100.m-auto
-          p.mb-0.text-center Un círculo representa ciclo, comunidad y enfoque. También pueden dar la impresión de inestabilidad y movimiento.
+          p.mb-0.text-center Representa contraste, enfoque y dinamismo, útil para destacar características únicas o innovación.
       .tarjeta.tarjeta--slyder.bg2.p-4.shadow
         .row.justify-content-center.mb-3
           .col-6
@@ -636,11 +636,11 @@
           .col-lg-12.col-md-12.col-12
             p.mb-4 Son tipografías que presentan terminales en sus puntas con trazos o curvas terminales. Las serifas se crearon para que las letras tuviesen una separación entre sí y facilitaran la lectura. Actualmente, son pocas la marcas que llevan este tipo de letras. Algunas fuentes conocidas con serifa son: Times, Bodoni o Garamond.
             .row.justify-content-evenly.align-items-center
-              .col-lg-4.col-md-6.col-12
+              .col-lg-4.col-md-4.col-12.mb-3
                 img.img-a.img-t(src='@/assets/curso/tema1/img54.svg' alt='AvatarTop')
-              .col-lg-4.col-md-6.col-12
+              .col-lg-4.col-md-4.col-12.mb-3
                 img.img-a.img-t(src='@/assets/curso/tema1/img55.svg' alt='AvatarTop')
-              .col-lg-4.col-md-6.col-12
+              .col-lg-4.col-md-4.col-12.mb-3
                 img.img-a.img-t(src='@/assets/curso/tema1/img57.svg' alt='AvatarTop')
       .tarjeta.color-acento-botones.p-4(titulo="SAN SERIF")
         h4 San Serif
@@ -648,11 +648,11 @@
           .col-lg-12.col-md-12.col-12
             p.mb-4 Término usado para describir las letras que no tienen pequeños rasgos terminales. También llamados caracteres grotescos, sin remate o de palo seco. En la actualidad, son los tipos de fuentes más utilizados en el desarrollo de marcas por su estética y sencillez. Las fuentes san-serif más reconocidas son: Helvética, Futura o Gill Sans.
             .row.justify-content-evenly.align-items-center
-              .col-lg-4.col-md-6.col-12
+              .col-lg-4.col-md-4.col-12.mb-3
                 img.img-a.img-t(src='@/assets/curso/tema1/img51.svg' alt='AvatarTop')
-              .col-lg-4.col-md-6.col-12
+              .col-lg-4.col-md-4.col-12.mb-3
                 img.img-a.img-t(src='@/assets/curso/tema1/img52.svg' alt='AvatarTop')
-              .col-lg-4.col-md-6.col-12
+              .col-lg-4.col-md-4.col-12.mb-3
                 img.img-a.img-t(src='@/assets/curso/tema1/img53.svg' alt='AvatarTop')
       .tarjeta.color-acento-botones.p-4(titulo="GÓTICA")
         h4 Gótica
@@ -667,9 +667,9 @@
         .row.justify-content
           .col-lg-4.col-md-12.col-12
             p.mb-4 Son tipografías realizadas a partir de caligrafía, tiene trazos y formas más sencillas, algunas con formas redondas.
-          .col-lg-4.col-md-6.col-12
+          .col-lg-4.col-md-6.col-12.mb-3
             img.img-a.img-t(src='@/assets/curso/tema1/img59.svg' alt='AvatarTop')
-          .col-lg-4.col-md-6.col-12
+          .col-lg-4.col-md-6.col-12.mb-3
             img.img-a.img-t(src='@/assets/curso/tema1/img60.svg' alt='AvatarTop')
 
     p.mb-4 En el desarrollo de una marca, la tipografía debe seleccionarse con base en las características del mercado y del producto, teniendo en cuenta que los represente adecuadamente. Adicional, la tipografía debe ser legible y verse de forma estética y armoniosa en todos los medios donde se utilice.
@@ -719,18 +719,21 @@
               p.mb-4 Son las siglas en inglés de los colores cian, magenta, amarillo y negro, que son las cuatro tintas utilizadas en el proceso de impresión por cuatricromía. La combinación de estos colores en diferentes proporciones da como resultado todos los colores y matices. El sistema CMYK es sustractivo, puesto que los colores secundarios y terciarios se sustraen de la combinación de los primarios entre sí o de estos con los secundarios.
             .col-lg-4
               img.img-a.img-t.mb-4(src="@/assets/curso/tema1/img63.svg", alt="alt")
-            .row.align-items-center.justify-content-center.mb-3
-              .col-lg-12.col-md-12.col-12
-                .caja1.p-4
-                  .row.align-items-center.justify-content-center
-                    .col-lg-2
-                      img.img-a.img-t.d-none.d-lg-block(src="@/assets/curso/tema1/img64.svg")
-                    .col-lg-8.col-md-12.col-12
-                      h4.mb-3.text-white.my-3 #[b Anexo. Colores secundarios y terciarios CMYK en el círculo cromático.]
-                    .col-lg-2
-                      a.boton.color-acento-botones(href="https://paletton.com/#uid=1000u0kllllaFw0g0qFqFg0w0aF" target="_blank")
-                        span Descargar
-                        i.fas.fa-circle-play          
+            .row.justify-content-center.align-items-center(data-aos="zoom-in-left")
+              .col-lg-12
+                .caja1.p-4.mb-5
+                  .row.justify-content-around.align-items-center
+                    .col-3.col-sm-2.col-lg-2.d-none.d-lg-block
+                      img.img-a.img-t(src="@/assets/curso/tema1/img64.svg")
+                    .col
+                      .row.justify-content-between.align-items-center
+                        .col.mb-3.mb-sm-0
+                          h4.mb-3.text-white.my-3 #[b Anexo. Colores secundarios y terciarios CMYK en el círculo cromático.]
+                        .col-sm-auto
+                          a.boton.color-acento-botones(href="https://paletton.com/#uid=1000u0kllllaFw0g0qFqFg0w0aF" target="_blank")
+                            span Descargar
+                            i.fas.fa-circle-play 
+                                
           .row.justify-content-center.align-items-center(numero="1" titulo="Sistema CMYK")
             .col-lg-8
               p.mb-4 Son las siglas en inglés de los colores cian, magenta, amarillo y negro, que son las cuatro tintas utilizadas en el proceso de impresión por cuatricromía. La combinación de estos colores en diferentes proporciones da como resultado todos los colores y matices. El sistema CMYK es sustractivo, puesto que los colores secundarios y terciarios se sustraen de la combinación de los primarios entre sí o de estos con los secundarios.
@@ -767,46 +770,44 @@
 
     .titulo-segundos.mb-5
       h2 Selección de paleta de colores
-
+    p.mb-4 De igual manera, basado en Garrido(2011. Pag 98-99)
+    p.mb-4 Para la selección de la paleta de colores, es necesario seguir las siguientes recomendaciones:
+    
     .row.justify-content-center.mb-5
       .col-lg-12   
-        .bloque-texto-g.color-secundario.mi.p-3.p-sm-4.p-md-5
+        .bloque-texto-g.color-secundario.mi.p-3.p-sm-4.p-md-4
           .bloque-texto-g__img(
             :style="{'background-image': `url(${require('@/assets/curso/tema1/img66.png')})`}"
           )
-          .bloque-texto-g__texto.p-3.lo
-            .row.mb-5.justify-content-center
-              .col-lg-12.col-md-12.col-12
-                p.mb-0
-                ul.lista-ul--color(data-aos="fade-left").inde
-                  li.mb-0.d-flex
-                    i.fas.fa-bullseye
-                    h5.mb-0 Realismo      
-                    .row
-                      .col-lg-12
-                        p.mb-3 Porque ayuda a dar la dimensión y el volúmen preciso a los productos.
-                  li.mb-0.d-flex
-                    i.fas.fa-bullseye
-                    h5.mb-0 Atención    
-                      p.mb-3 Mejora el poder de captación óptica, ya que el individuo está acostumbrado a él y reacciona más favorablemente.
-                  li.mb-0.d-flex
-                    i.fas.fa-bullseye
-                    h5.mb-0 Sicología  
-                      p.mb-3 El color expresa disposiciones de ánimo y provoca sinestesias (sentimientos por estímulos), que modifican la actitud y el comportamiento del público objetivo.
-                  li.mb-0.d-flex
-                    i.fas.fa-bullseye
-                    h5.mb-0 Estética    
-                      p.mb-3 El color, en sí mismo, proporciona belleza, y placer.
-                  li.mb-0.d-flex
-                    i.fas.fa-bullseye
-                    h5.mb-0 Efectividad  
-                      p.mb-3 El color adecuado, al mejorar la atención y al actuar sobre la sicología humana, favorece la efectividad del mensaje publicitario.
+          .bloque-texto-g__texto.p-4.lo
+            .col-sm.mb-5.mb-sm-0
+              ul.lista-ul.lista-ul--separador
+                li.d-flex
+                  .lista-ol--cuadro__vineta.mor
+                    span 1
+                  p.mb-0 #[b Realismo]<br>Porque ayuda a dar la dimensión y el volúmen preciso a los productos.
+                li
+                li.d-flex
+                  .lista-ol--cuadro__vineta.mor
+                    span 2
+                  p.mb-0 #[b Atención]<br>Mejora el poder de captación óptica, ya que el individuo está acostumbrado a él y reacciona más favorablemente.
+                li
+                li.d-flex
+                  .lista-ol--cuadro__vineta.mor
+                    span 3
+                  p.mb-0 #[b Sicología]<br>El color expresa disposiciones de ánimo y provoca sinestesias (sentimientos por estímulos), que modifican la actitud y el comportamiento del público objetivo.
+                li
+                li.d-flex
+                  .lista-ol--cuadro__vineta.mor
+                    span 4
+                  p.mb-0 #[b Estética]<br>El color, en sí mismo, proporciona belleza, y placer.
+                li
+                li.d-flex
+                  .lista-ol--cuadro__vineta.mor
+                    span 5
+                  p.mb-0 #[b Efectividad]<br>El color adecuado, al mejorar la atención y al actuar sobre la sicología humana, favorece la efectividad del mensaje publicitario.
+          
 
-              
-              
-              
-              
-              
     p.mb-4 Por lo anterior y basado de igual manera en el autor, la sugerencia con respecto a la utilización de los colores es la siguiente:    
                   
     .row.justify-content-center
@@ -839,7 +840,7 @@
             p.fw-bold.text-center.mb-0.peq VERDE
             p.mb-3.text-center.peq Sensaciones de aire, libre-verano.
             
-    .row.justify-content-center.mb-4
+    .row.justify-content-center
       .col-lg-3.col-md-6.mb-4(data-aos="fade-right")
         .borde-22.overflow-hidden.h-100.bg7
           figure
@@ -868,10 +869,6 @@
           .p-2.align-content-center
             p.fw-bold.text-center.mb-0.peq NEGRO
             p.mb-3.text-center.peq Servicios jurídicos, asesorías.
-
-
-
-
 
 
 </template>
