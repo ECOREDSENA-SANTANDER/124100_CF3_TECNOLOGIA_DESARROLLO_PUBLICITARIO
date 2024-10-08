@@ -92,7 +92,7 @@
     .titulo-segundos.mb-5
       h2 Buscatrazos
 
-    p.mb-4 Es un panel básico para desarrollo gráfico, es útil para crear formas a partir de la combinación, intersección y manipulación de objetos. El panel de buscatrazos está junto al panel Alinear y transformar. Se activa desde Ventana y luego Buscatrazos, para una mejor comprensión:
+    p.mb-4 Es un panel básico para desarrollo gráfico, es útil para crear formas a partir de la combinación, intersección y manipulación de objetos. El panel de buscatrazos está junto al panel Alinear y transformar. Se activa desde Ventana y luego Buscatrazos, para una mejor comprensión ir al sitio:
 
     .row
       figure.mb-5
