@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="249.613" height="220.689" viewBox="0 0 249.613 220.689">
+  <g id="Grupo_1100947" data-name="Grupo 1100947" transform="translate(-1060.375 -22957.557)">
+    <g id="f35.223b6204" transform="translate(-5953.06 22490.164)">
+      <g id="Grupo_1099650" data-name="Grupo 1099650" transform="translate(7013.434 467.392)">
+        <g id="Grupo_1099647" data-name="Grupo 1099647" transform="translate(0 71.106)" style="mix-blend-mode: multiply;isolation: isolate">
+          <circle id="Elipse_11509" data-name="Elipse 11509" cx="74.792" cy="74.792" r="74.792" transform="translate(0 0)" fill="#01aef0"/>
+        </g>
+        <g id="Grupo_1099648" data-name="Grupo 1099648" transform="translate(100.029 71.107)" style="mix-blend-mode: multiply;isolation: isolate">
+          <circle id="Elipse_11510" data-name="Elipse 11510" cx="74.792" cy="74.792" r="74.792" transform="translate(0 149.583) rotate(-90)" fill="#fef200"/>
+        </g>
+        <g id="Grupo_1099649" data-name="Grupo 1099649" transform="translate(50.014)" style="mix-blend-mode: multiply;isolation: isolate">
+          <circle id="Elipse_11511" data-name="Elipse 11511" cx="74.792" cy="74.792" r="74.792" transform="translate(0 0)" fill="#ed018c"/>
+        </g>
+      </g>
+      <text id="amarillo" transform="translate(7175.71 626.354)" font-size="15" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">amarillo</tspan></text>
+      <text id="magenta" transform="translate(7098.208 506.286)" font-size="15" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">magenta</tspan></text>
+      <text id="cian" transform="translate(7044.275 626.354)" font-size="15" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">cian</tspan></text>
+      <text id="negro" transform="translate(7111.766 594.352)" fill="#fff" font-size="15" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">negro</tspan></text>
+    </g>
+  </g>
+</svg>
