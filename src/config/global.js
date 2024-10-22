@@ -79,7 +79,7 @@ export default {
           },
           {
             numero: '2.2',
-            titulo: 'Manejo de Ilustrador',
+            titulo: 'Manejo de Illustrator',
             hash: 't_2_2',
           },
         ],

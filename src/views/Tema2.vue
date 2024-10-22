@@ -31,7 +31,7 @@
 
     Separador
     #t_2_2.titulo-segundo.mb-5
-      h2 2.2 Manejo de Ilustrador
+      h2 2.2 Manejo de Illustrator
     
     
     .titulo-segundos.mb-5

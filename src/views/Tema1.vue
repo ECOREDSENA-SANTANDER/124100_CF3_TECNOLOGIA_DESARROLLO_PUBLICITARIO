@@ -41,7 +41,7 @@
                 img(src='@/assets/curso/tema1/img4.png' alt="")
             .crd_hover_txt--body.colt
               h5.mb-3.text-center.text-white Es un diferenciador de la empresa
-              p.mt-4.text-white.mb-0.text-center Nada más importante para una compañía que distinguirse de su competencia. La identidad permite que una marca no se igual a otra y que el consumidor pueda diferenciarlas claramente.
+              p.mt-4.text-white.mb-0.text-center Nada más importante para una compañía que distinguirse de su competencia. La identidad permite que una marca no sea igual a otra y que el consumidor pueda diferenciarlas claramente.
         .col-lg-4.mb-4.mb-lg-0.col-md-6(data-aos="zoom-in")
           .crd_hover_txt
             .crd_hover_txt--img
@@ -439,7 +439,7 @@
               li 
                 .lista-ol--cuadro__vineta.v--green
                   span 3
-                | Ibm
+                | IBM
               li 
                 .lista-ol--cuadro__vineta.v--green
                   span 4
@@ -579,7 +579,7 @@
       .col-lg-3.col-md-6.col-12.mb-3
         img.img-a.img-t.mb-4(src="@/assets/curso/tema1/img44.svg", alt="alt").img100.m-auto(data-aos="zoom-in")
         .bg5.p-4.mt-4
-          p.mb-0.text-center Tigre Toño. Zucaritas de Kellog’s
+          p.mb-0.text-center Tigre Toño. Zucaritas de Kellogg’s
       .col-lg-3.col-md-6.col-12.mb-3
         img.img-a.img-t.mb-3(src="@/assets/curso/tema1/img45.svg", alt="alt").img100.m-auto(data-aos="zoom-in")
         .bg5.p-4.mt-3
@@ -734,9 +734,9 @@
                             span Enlace #[em web]
                             i.fas.fa-file-download
                                 
-          .row.justify-content-center.align-items-center(numero="1" titulo="Sistema CMYK")
+          .row.justify-content-center.align-items-center(numero="2" titulo="Sistema RGB")
             .col-lg-8
-              p.mb-4 Son las siglas en inglés de los colores cian, magenta, amarillo y negro, que son las cuatro tintas utilizadas en el proceso de impresión por cuatricromía. La combinación de estos colores en diferentes proporciones da como resultado todos los colores y matices. El sistema CMYK es sustractivo, puesto que los colores secundarios y terciarios se sustraen de la combinación de los primarios entre sí o de estos con los secundarios.
+              p.mb-4 #[em Red, Green, Blue] / Rojo, Verde, Azul. Modelo de color usado por los monitores y TV, basado en la combinación de luces de esos matices para generar los diferentes colores. Es el modelo usado por casi todos los mapas de bits para definir los que se van a utilizar. El RGB es aditivo; es decir, los colores se adhieren uno a otro, por lo que se obtienen todos los del espectro luminoso; con la mezcla en cantidades iguales de estos tres, se obtiene el blanco.
               .row.justify-content-center.mb-5
                 .col-lg-12
                   .cajon.color-acento-contenido.p-3.mb-4
@@ -770,7 +770,7 @@
 
     .titulo-segundos.mb-5
       h2 Selección de paleta de colores
-    p.mb-4(data-aos="fade-left") De igual manera, basado en Garrido (2011. Pag 98-99)
+    p.mb-4(data-aos="fade-left") De igual manera, basado en Garrido (2011. Pág 98-99)
     p.mb-4(data-aos="fade-right") Para la selección de la paleta de colores, es necesario seguir las siguientes recomendaciones:
     
     .row.justify-content-center.mb-5(data-aos="zoom-in")
