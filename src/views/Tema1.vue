@@ -696,7 +696,7 @@
       figure.mb-5
         .video
           iframe(width="560" height="315" src="https://www.youtube.com/embed/fuZtQG1iOtg?si=vl56bRoxbVN5E-mr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen)
-        figcaption Video Teoría del color
+        figcaption Video. Bases de la teoría del color
   
     .titulo-segundos.mb-5
       h2 Sistemas de colores primarios
@@ -766,7 +766,7 @@
       figure.mb-5
         .video
           iframe(width="560" height="315" src="https://www.youtube.com/embed/l67E-_FQT34?si=uW0QH0uZfNeji6el" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen)
-        figcaption Video Psicología Del Color: Significado De Colores En La Publicidad
+        figcaption Video. Psicología Del Color: Significado De Colores En La Publicidad
 
     .titulo-segundos.mb-5
       h2 Selección de paleta de colores

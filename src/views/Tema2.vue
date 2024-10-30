@@ -27,7 +27,7 @@
       figure
         .video(data-aos="zoom-in")
           iframe(width="560" height="315" src="https://www.youtube.com/embed/D840NyenOhw?si=kSdoUe7liFUE5jJH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen)
-        figcaption Video Manejo De #[em Software] De Diseño Vectorial
+        figcaption Video. Manejo De #[em Software] De Diseño Vectorial
 
     Separador
     #t_2_2.titulo-segundo.mb-5
@@ -43,7 +43,7 @@
       figure.mb-5
         .video(data-aos="zoom-in")
           iframe(width="560" height="315" src="https://www.youtube.com/embed/A0ZBy_APICE?si=fwKXGQrR2gYOXHDs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen)
-        figcaption Video Espacio De Trabajo Y Personalización Del Espacio De Trabajo
+        figcaption Video. Espacio De Trabajo Y Personalización Del Espacio De Trabajo
     
     .titulo-segundos.mb-5
       h2 Crear un nuevo documento
@@ -54,7 +54,7 @@
       figure.mb-5
         .video(data-aos="zoom-in")
           iframe(width="560" height="315" src="https://www.youtube.com/embed/SDzcOqGtLw8?si=2xtzeV2b5-kNZrq6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen)
-        figcaption Video Crear Un Nuevo Documento
+        figcaption Video. Crear Un Nuevo Documento
     
     .titulo-segundos.mb-5
       h2 Panel de herramientas
@@ -65,7 +65,7 @@
       figure.mb-5
         .video(data-aos="zoom-in")
           iframe(width="560" height="315" src="https://www.youtube.com/embed/3Yt4faDPycw?si=tllNSswGy1cPxgZg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen)
-        figcaption Video Panel de herramientas
+        figcaption Video. Panel De Herramientas
 
     .titulo-segundos.mb-5
       h2 Manejo de texto
@@ -76,7 +76,7 @@
       figure.mb-5
         .video(data-aos="zoom-in")
           iframe(width="560" height="315" src="https://www.youtube.com/embed/guKgjVSvM9Y?si=SuT_0G5Wn5OJYhcu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen)
-        figcaption Video Manejo de texto
+        figcaption Video. Manejo De Texto
     
     .titulo-segundos.mb-5
       h2 Dibujo de formas básicas
@@ -87,7 +87,7 @@
       figure.mb-5
         .video(data-aos="zoom-in")
           iframe(width="560" height="315" src="https://www.youtube.com/embed/OE29Tw7XEzk?si=fNbxCp7TFYNqd64R" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen)
-        figcaption Video Dibujo de formas básicas
+        figcaption Video. Dibujo De Formas Básicas
 
     .titulo-segundos.mb-5
       h2 Buscatrazos
@@ -98,7 +98,7 @@
       figure.mb-5
         .video(data-aos="zoom-in")
           iframe(width="560" height="315" src="https://www.youtube.com/embed/uvbIGMgh-Ng?si=w5x7_K1zTckeTOky" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen)
-        figcaption Video Buscatrazos
+        figcaption Video. Buscatrazos
 
     .titulo-segundos.mb-5
       h2 Guardado de archivos
@@ -109,7 +109,7 @@
       figure
         .video(data-aos="zoom-in")
           iframe(width="560" height="315" src="https://www.youtube.com/embed/_GDjeuKMCRU?si=wPgxNCwh8mi_MPON" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen)
-        figcaption Video Guardado de Archivos
+        figcaption Video. Guardado De Archivos
 
 
 
