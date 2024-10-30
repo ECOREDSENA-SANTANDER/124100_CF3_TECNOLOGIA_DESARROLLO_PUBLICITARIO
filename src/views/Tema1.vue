@@ -274,7 +274,7 @@
             .col-lg-3
               img.img-a.img-t.mb-3(src="@/assets/curso/tema1/img30.svg", alt="alt")(data-aos="zoom-in")
             .col-lg-9
-              p.mb-4 Las palabras en general son muy sonoras y armoniosas cuando son pronunciadas, las marcas deben tener estas mismas características; en el idioma español hay combinaciones de letras que le restan sonoridad a las palabras o se escuchan extraño; por ejemplo: inmaterial, debido a que la combinación de las letras n y m hacen que la sonoridad cambie y se sienta extraña. Lo ideal es utilizar nombres compuestos cortos que comiencen por la misma letra, como se puede percibir con la marca registrada Coca Cola; esto genera ritmo y armonía.
+              p.mb-4 Las palabras en general son muy sonoras y armoniosas cuando son pronunciadas, las marcas deben tener estas mismas características; en el idioma español hay combinaciones de letras que le restan sonoridad a las palabras o se escuchan extraño; por ejemplo: &#60;inmaterial&#62;, debido a que la combinación de las letras &#60;n&#62; y &#60;m&#62; hacen que la sonoridad cambie y se sienta extraña. Lo ideal es utilizar nombres compuestos cortos que comiencen por la misma letra, como se puede percibir con la marca registrada Coca Cola; esto genera ritmo y armonía.
           .row.justify-content-center.align-items-center.p-3(numero="4" titulo="Relación con el beneficio")
             .col-lg-3
               img.img-a.img-t.mb-3(src="@/assets/curso/tema1/img31.svg", alt="alt")(data-aos="zoom-in")
@@ -740,7 +740,7 @@
               .row.justify-content-center.mb-5
                 .col-lg-12
                   .cajon.color-acento-contenido.p-3.mb-4
-                    p.mb-0 #[b Para realizar una combinación correcta y armoniosa de los colores y crear una paleta adecuada para una marca, se puede acudir a los siguientes sitios web:]
+                    p.mb-0 #[b Para realizar una combinación correcta y armoniosa de los colores y crear una paleta adecuada para una marca, se puede acudir a los siguientes sitios #[em web]:]
                   .row.align-items-center.justify-content-center
                     .col-lg-6.col-md-6.col-12
                       a.anexo.mb-2.mb-lg-0(href="https://color.adobe.com/es/create/color-wheel" target="_blank")

@@ -188,7 +188,7 @@ export default {
     {
       tema: 'Concepto de imagen corporativa',
       referencia: 'Orozko, M. (s. f.). 13 Manuales de Marca para Inspirarte.',
-      tipo: 'Página web',
+      tipo: 'Página <em>web</em>',
       link: 'https://sirope.es/branding/manual-de-marca-inspirar/',
     },
   ],
@@ -245,13 +245,13 @@ export default {
     },
     {
       referencia:
-        'Alcaldía de Medellín. (2020). Libro de Marca Municipio de Medellín. https://n9.cl/y5j7',
+        'Alcaldía de Medellín. (2020). Libro de Marca Municipio de Medellín.',
       link:
         'https://www.medellin.gov.co/irj/go/km/docs/pccdesign/medellin/Temas/NuestroGobierno/Publicaciones/Shared%20Content/Documentos/2020/Librodemarca-AlcaldiaMedelliinV1.pdf',
     },
     {
       referencia:
-        'Animal Planet. (2008). International Off-Air Brand Guidelines. https://cutt.ly/byVP1Sd',
+        'Animal Planet. (2008). International Off-Air Brand Guidelines.',
       link: 'https://logoblink.com/img/2009/01/animal_planet1.pdf',
     },
     {
@@ -265,12 +265,12 @@ export default {
       link: '',
     },
     {
-      referencia: 'Fender. (2015). The Fender Brand. https://cutt.ly/syVA783',
+      referencia: 'Fender. (2015). The Fender Brand.',
       link:
         'https://assets.spotlight.fender.com/styleguides/Fender_Brand_Guide.pdf',
     },
     {
-      referencia: 'Foursquare. (2011). Brand Book. https://cutt.ly/IyVAGX6',
+      referencia: 'Foursquare. (2011). Brand Book.',
       link:
         'https://playfoursquare.s3.amazonaws.com/press/foursquare-brandbook.pdf',
     },
@@ -291,29 +291,27 @@ export default {
     },
     {
       referencia:
-        'Pepsi. (2012). Live for Now. Brand Guidelines. Work in Progress. https://cutt.ly/kyVP6gZ',
+        'Pepsi. (2012). Live for Now. Brand Guidelines. Work in Progress.',
       link:
         'http://www.refinariadesign.com.br/manuais/PEPSI/brandbook-manual-de-identidade-pepsi-2012.pdf',
     },
     {
-      referencia:
-        'Pinterest. (2015). Pinterest Brand Guidelines for Partners. https://cutt.ly/xyVALOi',
+      referencia: 'Pinterest. (2015). Pinterest Brand Guidelines for Partners.',
       link:
         'https://s.pinimg.com/sub/business/guides/pinterest-brand-guidelines-en-02.pdf',
     },
     {
       referencia:
-        'Reimers Design. (s. f.). Pequeño Diccionario del Diseñador. Consultado el 27 de mayo de 2020. https://cutt.ly/VyDzeWh',
+        'Reimers Design. (s. f.). Pequeño Diccionario del Diseñador. Consultado el 27 de mayo de 2020.',
       link:
         'http://losqueno.com/wp-content/uploads/2015/04/DICCIONARIO-DISE--O.pdf',
     },
     {
-      referencia:
-        'Sánchez, G. (2020). Glosario Gráfico. https://cutt.ly/WyVO5FW',
+      referencia: 'Sánchez, G. (2020). Glosario Gráfico.',
       link: 'http://www.glosariografico.com/categoria_tipografia?page=4',
     },
     {
-      referencia: 'Twitter. (2020). Brand Guidelines. https://cutt.ly/byVAuhe ',
+      referencia: 'Twitter. (2020). Brand Guidelines.',
       link: 'https://about.x.com/en/who-we-are/brand-toolkit',
     },
     {
@@ -323,7 +321,7 @@ export default {
     },
     {
       referencia:
-        'Usabilitypost. (2019). A Guide to Choosing Colors for Your Brand. https://cutt.ly/EyVPzjx',
+        'Usabilitypost. (2019). A Guide to Choosing Colors for Your Brand.',
       link:
         'https://usabilitypost.com/2008/09/29/a-guide-to-choosing-colors-for-your-brand/',
     },
