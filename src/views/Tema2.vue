@@ -15,7 +15,7 @@
               img.img-a.img-t(src='@/assets/curso/tema2/img1.svg', alt='')(data-aos="zoom-in")
             .col-lg-8
               .bloque-texto-a__texto.p-5
-                p.mb-0 Para el desarrollo de una marca es necesario el manejo de #[em software] de diseño vectorial. En la #[em web], hay muchas alternativas para el diseño de logos; sin embargo, no es recomendable acudir a íconos o gráficos estándar para generar la representatividad de una empresa, lo ideal es crear la identidad desde cero y tener en cuenta todos los parámetros relacionados con el diseño de marca, expuestos en el tema 1 de este componente formativo.
+                p.mb-0 Para desarrollar una marca efectiva, es fundamental dominar #[em software] de diseño vectorial. Aunque existen diversas opciones en la #[em web] para crear logotipos, no se recomienda utilizar íconos o gráficos estándar, ya que estos limitan la autenticidad y representatividad de la empresa.
     
     Separador
     #t_2_1.titulo-segundo.mb-5
@@ -81,7 +81,7 @@
     .titulo-segundos.mb-5
       h2 Dibujo de formas básicas
 
-    p.mb-4(data-aos="fade-right") En Illustrator se pueden crear formas básicas y modificarlas de acuerdo con las necesidades que se tengan de diseño. El panel de formas básicas incluye varias muy útiles: cuadrado, elipse, estrella y polígono, entre las más importantes, para ello amplie información en el siguiente video:
+    p.mb-4(data-aos="fade-right") En Illustrator se pueden crear formas básicas y modificarlas de acuerdo con las necesidades que se tengan de diseño. El panel de formas básicas incluye varias muy útiles: cuadrado, elipse, estrella y polígono, entre las más importantes, para ello, profundice en la información disponible en el siguiente video:
 
     .row
       figure.mb-5
